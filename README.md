@@ -19,7 +19,5 @@
 
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/jthiagobf/blob/output/github-contribution-grid-snake.svg)
-
 
 
