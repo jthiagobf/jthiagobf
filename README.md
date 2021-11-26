@@ -2,7 +2,8 @@
 
 
 ### Hello, Devs!! 👋
-![Alt Text](https://c.tenor.com/h6dw8GhhnSEAAAAd/bruce-lee-lee-junfan.gif)
+
+<img src="https://c.tenor.com/h6dw8GhhnSEAAAAd/bruce-lee-lee-junfan.gif" width="300" height="200" />
 
 
 
